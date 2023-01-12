@@ -1,0 +1,42 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.bg-dark {
+  background-color: var(#2C3D50) !important;
+}
+
+hrr {
+  width: 100px;
+  border: 2px solid black !important;
+}
+
+p {
+  color: white;
+}
+
+input.form-control, textarea.form-control {
+  border: none !important;
+  border-radius: 0 !important;
+  border-bottom: 1px solid #ccc !important;
+}
+
+.btn-primary {
+  border-color: #5CBDBD !important;
+  background-color: #5CBD9D !important;
+}
+
+#portfolio p {
+ 
+color:rebeccapurple;
+  
+}
+
+footer {
+  background-color: var(#2C3D50);
+}
+footer h3 {
+  color: white;
+}
+
+/*# sourceMappingURL=estilo.css.map */
